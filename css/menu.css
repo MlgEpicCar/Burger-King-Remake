@@ -1,0 +1,63 @@
+.menu {
+  background-color: #582414;
+}
+.jumbotext {
+  color:#f8ecdc;
+  font-weight:bold;
+}
+.activetext {
+  color:#d82404;
+  font-weight: bold;
+  
+}
+.activetext:visited {
+  color:#d82404;
+  font-weight: bold;
+
+}
+.activetext:hover {
+  color:#d82404;
+  font-weight: bold;
+  
+}
+.myborder {
+  border-bottom-color: #d82404;
+  border-bottom-width: 2px;
+  border-bottom-style: solid
+}
+
+.textinactive {
+  color:#582414;
+  font-weight: bold;
+}
+.textinactive:hover {
+  color:#582414;
+  font-weight: bold;
+}
+.textinactive:visited {
+  color:#582414;
+  font-weight: bold;
+
+}
+.mytext {
+  color: #582414;
+  font-weight: bold;
+}
+.backgroundt {
+  background-color: #f8ecdc;
+  border: none;
+}
+
+
+
+
+
+
+/** red #d82404 **/
+/** hover red #a81c04 **/
+/** brown #582414 **/ <<<<<
+/** hover tan #f8d4c4 **/ 
+/** lowland color #ebe2d3 **/
+/** **/
+/** **/
+/** **/

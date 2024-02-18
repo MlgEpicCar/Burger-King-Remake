@@ -1,0 +1,267 @@
+@font-face {
+  font-family: 'isaniburger';
+  src: url('fonts/Insanibu.ttf');
+}
+
+
+/** Test CSS **/
+.green {
+  background-color: green;
+}
+/** Body CSS **/
+body {
+  background-color:#f8ecdc ;
+}
+.text{
+  font-family: 'isaniburger';
+
+}
+/** Nav CSS **/
+/** Items + Cards **/
+.topper{
+  padding-bottom: 50px;
+}
+h3 {
+  color: #582414;
+}
+.order1 {
+  border-radius: 25px;
+  margin-top: 10px;
+  padding: 10px;
+  color: white;
+  background-color: #d82404;
+  font-weight: bold;
+  width: 100%;
+  font-size: 16px;
+}
+.order1:hover {
+  background-color: #a81c04;
+  color: white;
+}
+.order2 {
+  border-radius: 25px;
+  margin-top: 10px;
+  padding: 10px;
+  color: #d82404;
+  background-color: #f8ecdc;
+  font-weight: bold;
+  width: 100%;
+  font-size: 16px;
+}
+.order2:hover {
+  background-color: #f8d4c4;
+  color: #d82404;
+}
+.order3 {
+  border-radius: 25px;
+  margin-top: 10px;
+  padding: 10px;
+  color: #d82404;
+  background-color: white;
+  font-weight: bold;
+  
+  font-size: 16px;
+}
+.order3:hover {
+  background-color: #f8ecdc;
+  color: #d82404;
+}
+.order4 {
+  border-radius: 25px;
+  padding: 9px;
+  color: white;
+  background-color: #d82404;
+  font-weight: bold;
+  font-size: 12px;
+}
+.order4:hover {
+  background-color: #a81c04;
+  color: white;
+}
+.order5 {
+  border-radius: 25px;
+  padding: 9px;
+  color: white;
+  background-color: #582414;
+  font-weight: bold;
+  font-size: 12px;
+}
+.order5:hover {
+  background-color: #a81c04;
+  color: white;
+}
+.navbut {
+  margin: 0;
+  margin-right: 80px;
+  transform: translate3d(0%, -40px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+}
+.navbutt {
+  margin: 0;
+  transform: translate3d(0%, -78px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+}
+.navbuttg {
+  margin: 0;
+  transform: translate3d(0%, -108px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+}
+.navgoo {
+  padding-top: 20px;
+  margin: 0;
+  transform: translate3d(0%, -80px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+}
+.navgoob {
+  padding-top: 0px;
+  margin: 0;
+  transform: translate3d(0%, -160px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+}
+.boobah {
+  padding-top: 5px;
+}
+.zerothnav {
+  height: 55px;
+  background-color: #f8ecdc;
+  width: 100%
+}
+.firstnav {
+  height: 100px;
+  background-color: #f8ecdc;
+  width: 100%
+}
+.thirdnav {
+  height: 60px;
+  background-color: #f8ecdc;
+  
+  width: 100%
+}
+div.card {
+  background-color: white;
+  border-radius: 10px;
+  margin: 0px;
+  padding: 0px;
+}
+img {
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+.terms {
+  
+  color: #582414;
+  text-decoration: underline;
+}
+.terms:hover{
+  color: #582414;
+}
+.cheesontitle {
+  color: #582414;
+  font-size: 20px;
+  font-weight: bold;
+}
+.cheesontext {
+  color: #582414;
+  font-size: 12px;
+  font-weight: bold;
+}
+.cheesontext2 {
+  color: #582414;
+  font-size: 14px;
+}
+.cheesontext3 {
+  color: #582414;
+  font-size: 20px;
+}
+/** col CSS **/
+.col12 {
+  width: 100%;
+}
+.col6 {
+  float: left;
+  width: 48.5%;
+  padding: 5px;
+  text-align: center;
+}
+.goofy {
+  width: 1%;
+}
+
+/** gif CSS **/
+.gif {
+  width: 90%;
+}
+/** Icon CSS **/
+.icon {
+  height: 16px;
+}
+.icon2 {
+  height: 12px;
+}
+.icon3 {
+  height: 20px;
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+}
+.threelines {
+  height: 20px;
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+}
+/** Phone CSS **/
+.phone {
+  position: absolute;
+  opacity: 1;
+  height: 400px;
+  transform: translate3d(0%, 80px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); 
+  transform-style: preserve-3d;
+}
+/** low land **/
+.lowland {
+  border-radius: 0px;
+  background-color: #ebe2d3;
+}
+.store {
+  height: 60px;
+  margin-right: 20px;
+}
+.help {
+  width: 50%;
+}
+/** lower land **/
+.lowerland {
+  border-radius: 0px;
+  background-color: #582414;
+}
+.footer-text {
+  color: #ebe2d3;
+  font-size:12px;
+}
+.footer-link {
+  font-size:12px;
+  color: #ebe2d3;
+  text-decoration: underline;
+}
+.footer-link:hover{
+  color: #ebe2d3;
+  text-decoration: underline;
+}
+/** bottom nav **/
+.bot-icon{
+  width:20px;
+  height: 20px;
+  
+}
+.bot-text-active{
+  font-size: 12px;
+  color: #d82404;
+}
+.bot-text{
+  font-size: 12px;
+  color: #582414;
+}
+
+
+/** red #d82404 **/
+/** hover red #a81c04 **/
+/** brown #582414 **/ <<<<<
+/** hover tan #f8d4c4 **/ 
+/** lowland color #ebe2d3 **/
+/** **/
+/** **/
+/** **/
